@@ -18,7 +18,7 @@ The system ingests web links, splits content into semantic chunks, and builds a 
 ### 🔹 Answer Generation with Cosine Similarity
 Each answer is generated strictly from retrieved context and includes **ranked sources with cosine similarity scores**.
 
-![Answer & Similarity](imageScreenshot from 2026-01-18 15-46-09.png)
+![Answer & Similarity](Screenshot from 2026-01-18 15-46-09.png)
 
 ---
 
