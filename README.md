@@ -11,14 +11,15 @@ The system emphasizes **hallucination control, transparency, and explainability*
 ### 🔹 Document Ingestion & Indexing
 The system ingests web links, splits content into semantic chunks, and builds a FAISS vector index.
 
-![Document Ingestion](Screenshot from 2026-01-18 15-46-09.png)
+![Document Ingestion](Screenshot%20from%202026-01-18%2015-46-09.png)
+)
 
 ---
 
 ### 🔹 Answer Generation with Cosine Similarity
 Each answer is generated strictly from retrieved context and includes **ranked sources with cosine similarity scores**.
 
-![Answer & Similarity](Screenshot from 2026-01-18 15-47-47.png)
+![Answer & Similarity](Screenshot%20from%202026-01-18%2015-47-47.png)
 
 ---
 
